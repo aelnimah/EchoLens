@@ -1,0 +1,38 @@
+## Carleton Course Feedback – COMP 3004: Project Summary
+
+This project analyzed student feedback on COMP 3004 to identify areas for improvement.  The analysis focused on sentiment and categorized feedback into key themes.
+
+**Key Themes and Insights:**
+
+The dominant themes emerging from student feedback are:
+
+* **Lectures:**  Students consistently expressed concerns about the pace of lectures and the lack of in-class examples, indicating a need for adjustments to teaching methodology.  The text-heavy nature of slides also received negative feedback.
+* **Agile Workflow/Deliverables:** The workload intensity within the Agile sprints was a significant source of student stress and negative sentiment.  Insufficient feedback between sprints further exacerbated this issue.
+* **TA Support:** While some students praised TA support, particularly before the midterm, other comments highlight a gap in assistance with specific concepts like design patterns.  This suggests a need for more consistent and comprehensive support throughout the course.
+* **Group Project:** The group project, while generally well-received, provides a benchmark for effective collaborative learning experiences.  Its success highlights the potential of similar activities.
+
+
+**Sentiment Trends:**
+
+The overall sentiment is mixed, with a tendency towards neutral to slightly negative feedback. While some aspects, like the group project and TA support (in certain instances), received positive feedback (sentiment scores above 0), significant negative sentiment (sentiment scores below or around 0) surrounds the lecture pace, workload, and perceived lack of timely feedback.  This indicates areas requiring immediate attention.
+
+
+**Suggested Improvements:**
+
+Based on the analysis, the following improvements are suggested:
+
+* **Lectures:** Slow the pace of lectures, incorporate more in-class examples and interactive exercises, and reduce the text density of slides, focusing instead on key concepts and visual aids.
+* **Agile Workflow:** Review the workload distribution across sprints to alleviate student stress. Consider adjusting the number of deliverables or providing more structured support to manage the workload effectively.  Increase the frequency and quality of feedback between sprints.
+* **TA Support:** Provide more proactive and consistent TA support, particularly for challenging concepts.  Consider dedicated office hours or workshops focused on specific topics like design patterns.
+* **Feedback Mechanisms:** Implement a more robust system for providing regular, timely, and constructive feedback to students on their work.  This could involve more frequent check-ins or mini-assessments.
+* **Additional Support:**  Explore the feasibility of adding a weekly Q&A session as suggested by students.
+
+
+**Critical Observations and Gaps:**
+
+* **Data Limitations:** The sample size of analyzed comments is relatively small, limiting the generalizability of the findings. A larger, more representative sample would strengthen the conclusions.
+* **Qualitative Depth:**  While sentiment scores provide a quantitative measure, further qualitative analysis of the comments could provide richer insights into the underlying reasons for student experiences.
+* **Missing Context:** The feedback lacks information about student backgrounds and prior programming experience, which could influence their perception of the course difficulty.
+
+
+This summary provides a starting point for implementing changes to COMP 3004. Further investigation, incorporating a larger sample size and more in-depth qualitative analysis, is recommended to refine these suggestions and ensure they effectively address student needs.
